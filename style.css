@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(yellow,orange);
+    height:700px;
+}
+#attemptlabel{
+    text-align: right;
+    transform: translate(0px,-170px);
+}
